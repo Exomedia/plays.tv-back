@@ -12,7 +12,7 @@ Install requirements
 pip install requests beautifulsoup4 tenacity
 ```
 
-Start script, it'll asks for your nickname
+Start script, it'll prompt for your nickname
 ```cmd
 py .\playstv.py
 ```
