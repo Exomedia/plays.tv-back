@@ -14,7 +14,7 @@ pip install requests beautifulsoup4 tenacity
 
 Start script, it'll asks for your nickname
 ```cmd
-py .\webarchive.py
+py .\playstv.py
 ```
 
 Let it do its job
